@@ -1,5 +1,5 @@
 [project]
-name            = "SaveImageCustom"
+name            = "saveimagecustom"
 version         = "1.0.1"
 description     = "Easy save image with dir+name"
 authors         = [{name = "No22"}]
