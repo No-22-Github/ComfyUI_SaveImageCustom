@@ -1,0 +1,15 @@
+[project]
+name = "SaveImageCustom"
+description = "Easy save image with dir+name"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/No-22-Github/ComfyUI_SaveImageCustom"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "hellono22"
+DisplayName = "ComfyUI_SaveImageCustom"
+Icon = ""
+includes = []
