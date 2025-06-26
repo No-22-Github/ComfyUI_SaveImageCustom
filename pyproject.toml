@@ -1,6 +1,6 @@
 [project]
 name            = "saveimagecustom"
-version         = "1.0.1"
+version         = "1.0.2"
 description     = "Easy save image with dir+name"
 authors         = [{name = "No22"}]
 license         = {file = "LICENSE"}
