@@ -1,15 +1,17 @@
 [project]
-name = "SaveImageCustom"
-description = "Easy save image with dir+name"
-version = "1.0.0"
-license = {file = "LICENSE"}
+name            = "SaveImageCustom"
+version         = "1.0.1"
+description     = "Easy save image with dir+name"
+authors         = [{name = "No22"}]
+license         = {file = "LICENSE"}
+readme          = "README.md"
+requires-python = ">=3.10"
 
 [project.urls]
-Repository = "https://github.com/No-22-Github/ComfyUI_SaveImageCustom"
-#  Used by Comfy Registry https://registry.comfy.org
+Repository      = "https://github.com/No-22-Github/ComfyUI_SaveImageCustom"
 
 [tool.comfy]
-PublisherId = "hellono22"
-DisplayName = "ComfyUI_SaveImageCustom"
-Icon = ""
-includes = []
+PublisherId     = "hellono22"
+DisplayName     = "Save Image (Dir+Name)"
+includes        = []
+
